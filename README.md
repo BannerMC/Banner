@@ -2,8 +2,7 @@
 <img src="src/main/resources/assets/banner/logo.png" alt="logo">
   <h1>Banner 1.21.1</h1>
 
-### The Bukkit/Spigot/Paper API implementation for Fabric
-### The project is no longer a Fabric mod, but a standalone program
+### This project moved to https://github.com/TaiyitistMC/Taiyitist
 [![](https://img.shields.io/github/stars/MohistMC/Banner.svg?label=Stars&logo=github)](https://github.com/MohistMC/Banner/stargazers)
 [![](https://img.shields.io/badge/JDK-21.0.3-brightgreen.svg?colorB=469C00&logo=java)](https://www.azul.com/downloads/?version=java-21-lts#zulu)
 [![](https://img.shields.io/badge/Gradle-8.13-brightgreen.svg?colorB=469C00&logo=gradle)](https://docs.gradle.org/8.13/release-notes.html)
